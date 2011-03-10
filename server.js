@@ -1,5 +1,5 @@
 //
-//setup Dependencies
+// setup the Dependencies
 //
 require(__dirname + "/lib/setup").ext( __dirname + "/lib").ext( __dirname + "/lib/express/support");
 var connect = require('connect')
