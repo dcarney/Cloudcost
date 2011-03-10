@@ -1,6 +1,6 @@
 # Cloudcost
 
-## Inspriation
+### Inspriation #
 
 _"When performance is measured, performance improves. When performance is measured and reported back, the rate of improvement accelerates."_
 
